@@ -1,0 +1,3 @@
+/home/jamesappletonret/personal/learningCPP/day1/build/CMakeFiles/testing.dir
+/home/jamesappletonret/personal/learningCPP/day1/build/CMakeFiles/edit_cache.dir
+/home/jamesappletonret/personal/learningCPP/day1/build/CMakeFiles/rebuild_cache.dir
